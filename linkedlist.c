@@ -263,7 +263,7 @@ void sortList(Node **head) {
 
 
 
-int main() {
+int main(void) {
     Node *head = NULL;  // Initialize the head of the list as NULL
     int choice, value, position, length;
 
